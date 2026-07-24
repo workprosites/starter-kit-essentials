@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/48N0-c?referralCode=HoXWL4&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 # ApostropheCMS Essentials Starter Kit
 
 The official minimal starting point for ApostropheCMS 4 projects. Ships with a home page,
