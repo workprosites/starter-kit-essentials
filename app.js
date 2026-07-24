@@ -3,7 +3,7 @@ import apostrophe from 'apostrophe';
 
 apostrophe({
   root: import.meta,
-  shortName: 'a4-boilerplate',
+  shortName: 'pro-site-cms',
   modules: {
     // Apostrophe module configuration
     // *******************************
