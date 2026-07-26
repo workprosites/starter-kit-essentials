@@ -34,6 +34,8 @@ apostrophe({
     },
     // `asset` supports the project's build for client-side assets.
     asset: {},
+    blog: {},
+    'blog-page': {},
     // use vite for asset bundling and hot module reloading
     '@apostrophecms/vite': {},
     // The project's first custom page type.
